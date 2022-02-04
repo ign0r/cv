@@ -1,0 +1,38 @@
+@font-face {
+  font-family: Blogger Sans; src: url('Blogger Sans.ttf');
+}
+/*------------->tag selektori<----------------*/
+body {
+  background-color: #C2FFF9;
+  font-family: Blogger Sans;
+}
+
+h1{
+  color: #35589A;
+}
+
+h2{
+  color: blue;
+}
+
+h3{
+  color: #35589A;
+}
+
+hr{
+  border: none;
+  border-top: 6px dotted #FF1700;
+  background-color: #C2FFF9;
+  height: 1px;
+  width: 20%;
+  margin-left: 20px;
+}
+/*---------------->class selektori<----------------*/
+.smajli{
+  background-color: #FFBD35;
+}
+
+/*---------------->Id selektori<-------------------*/
+#heading {
+  color: #35589A;
+}
